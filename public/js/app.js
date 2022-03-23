@@ -1,5 +1,3 @@
-console.log('this is java scrpit file')
-
 
 
 const weatherForm = document.querySelector('form')
